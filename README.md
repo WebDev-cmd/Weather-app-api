@@ -1,0 +1,1 @@
+This website focusses on backend technology and uses Express and Handlebars.It also uses an external API to fetch data and shows the current temperature of any city in the world.
